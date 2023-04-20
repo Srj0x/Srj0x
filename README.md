@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working in a family business, in the area of administration, electronic invoicing and management of social networks and web media.<br>I understand and speak English at an intermediate level.<br>I am learning programming at Alura Latam and Oracle ONE.<br>I am a graduate of the National University of Education, Enrique Guzmán y Valle.<br>Platzi I have taken several courses in English, digital marketing, entrepreneurship and programming.<br>I am convinced that technology is a powerful tool to improve people's lives and optimize business processes. <br>Therefore, I am looking for a job opportunity in a technology company, where I can apply my skills and knowledge to create innovative and high-impact solutions.<br>
+I am working in a family business, in the area of administration, electronic invoicing and management of social networks and web media.<br>I understand and speak English at an intermediate level.<br>I am learning programming at Alura Latam and Oracle ONE.<br>I am a graduate of the National University of Education, Enrique Guzmán y Valle.<br>I took some courses at Platzi on Programming, English, Marketing and Entrepreneurship.<br>I am convinced that technology is a powerful tool to improve people's lives and optimize business processes. <br>Therefore, I am looking for a job opportunity in a technology company, where I can apply my skills and knowledge to create innovative and high-impact solutions.<br>
 
 
 ## 🌐 Socials:
@@ -14,6 +14,9 @@ I am working in a family business, in the area of administration, electronic inv
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Srj0x&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
